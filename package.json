@@ -1,0 +1,19 @@
+{
+  "name": "boatit",
+  "version": "1.0.0",
+  "description": "Get your text ship shape with Boatit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rchristiani/boatit.git"
+  },
+  "author": "Ryan Christiani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rchristiani/boatit/issues"
+  },
+  "homepage": "https://github.com/Rchristiani/boatit#readme"
+}
