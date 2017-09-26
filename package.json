@@ -1,6 +1,6 @@
 {
   "name": "boatit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get your text ship shape with Boatit",
   "main": "index.js",
   "scripts": {
